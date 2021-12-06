@@ -1,0 +1,12 @@
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\bin\Debug\net5.0\Credito.deps.json
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\bin\Debug\net5.0\Credito.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\bin\Debug\net5.0\ref\Credito.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\bin\Debug\net5.0\Credito.pdb
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\Credito.csproj.AssemblyReference.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\Credito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\Credito.AssemblyInfoInputs.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\Credito.AssemblyInfo.cs
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\Credito.csproj.CoreCompileInputs.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\Credito.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\ref\Credito.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejercicio-dotnet-3\Credito\obj\Debug\net5.0\Credito.pdb
